@@ -1,4 +1,4 @@
-# Relational Databases 
+# Relational Databases Final Project
 
 ## P1
 
